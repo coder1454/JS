@@ -1,0 +1,8 @@
+name: "JS"
+displayName: "/js Anarchy"
+author: bruh god
+description: "adds javascript to servers (NOT FOR MAIN SERVER USE)"
+version: "1.0"
+minGameVersion: "143"
+dependencies: [ ]
+hidden: true
